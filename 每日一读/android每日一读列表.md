@@ -135,6 +135,10 @@ google新开源了flexBox控件，在android端实现类似css前端Flexbox布�
 下文是stylingandroid是对各种布局约束的介绍
 https://blog.stylingandroid.com/flexboxlayout-part-1/
 
+>20160523
+
+* [Android每日一读 你需要知道的Android拍照适配方案](http://www.jianshu.com/p/f269bcda335f)
+
 ##UI显示优化相关
 
 >20150817
